@@ -1,4 +1,4 @@
-public class ppok {
+public class ppok{
     
     // Your program begins with a call to main()
     public static void main(String[] args)

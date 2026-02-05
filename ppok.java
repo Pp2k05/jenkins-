@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Geeks{
+public class ppok{
     
     public static void main(String[] args) {
         
